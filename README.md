@@ -1,5 +1,7 @@
 # actcontrol
 
+Clique [aqui](https://actcontrol.vercel.app/) e visualize o projeto publicado no Vercel!
+
 App desenvolvido com Vue 3 no Vite. Permite que o usuário inicie uma atividade e controle o tempo gasto na execução desta tarefa.
 
 ## Configuração de IDE Recomendada
